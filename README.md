@@ -1,22 +1,22 @@
 <table>
 <tr>
-<td width="65%">
+<td valign="top">
 
-<img src="glow-banner.svg" alt="Siddharth Jain" width="100%">
+<img src="glow-banner.svg" alt="Siddharth Jain" width="560">
 
-<p align="center">
+<p align="left">
 AI/ML Member @ Microsoft Innovators Club&nbsp;|&nbsp;Data Science Member @ IEEE RAS&nbsp;|&nbsp;IoT & Edge Computing Enthusiast
 </p>
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/siddharth-jain-60a444379"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:sidjain10116@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://leetcode.com/u/sidjain10/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
 </p>
 
 </td>
-<td width="35%">
-<img src="siddharth_ascii.png" alt="Siddharth Jain ASCII portrait" width="100%">
+<td valign="top" width="260">
+<img src="siddharth_ascii.png" alt="Siddharth Jain ASCII portrait" width="260">
 </td>
 </tr>
 </table>
