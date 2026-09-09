@@ -16,7 +16,7 @@ AI/ML Member @ Microsoft Innovators Club&nbsp;|&nbsp;Data Science Member @ IEEE 
 
 </td>
 <td valign="top" width="260">
-<img src="siddharth_ascii.png" alt="Siddharth Jain ASCII portrait" width="360">
+<img src="siddharth_ascii_animated.svg" alt="Siddharth Jain ASCII portrait" width="260">
 </td>
 </tr>
 </table>
