@@ -2,7 +2,7 @@
 <tr>
 <td width="65%">
 
-<img src="./assets/glow-banner.svg" alt="Siddharth Jain" width="100%">
+<img src="glow-banner.svg" alt="Siddharth Jain" width="100%">
 
 <p align="center">
 AI/ML Member @ Microsoft Innovators Club&nbsp;|&nbsp;Data Science Member @ IEEE RAS&nbsp;|&nbsp;IoT & Edge Computing Enthusiast
@@ -16,7 +16,7 @@ AI/ML Member @ Microsoft Innovators Club&nbsp;|&nbsp;Data Science Member @ IEEE 
 
 </td>
 <td width="35%">
-<img src="./assets/siddharth_ascii.png" alt="Siddharth Jain ASCII portrait" width="100%">
+<img src="siddharth_ascii.png" alt="Siddharth Jain ASCII portrait" width="100%">
 </td>
 </tr>
 </table>
