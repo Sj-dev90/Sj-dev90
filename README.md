@@ -16,7 +16,7 @@ AI/ML Member @ Microsoft Innovators Club&nbsp;|&nbsp;Data Science Member @ IEEE 
 
 </td>
 <td valign="top" width="260">
-<img src="siddharth_ascii.png" alt="Siddharth Jain ASCII portrait" width="260">
+<img src="siddharth_ascii.png" alt="Siddharth Jain ASCII portrait" width="360">
 </td>
 </tr>
 </table>
@@ -35,7 +35,6 @@ Uptime: 24/7 (Fueled by Competitive Programming)
 Shell: C, C++, Python, Java
 Hardware: Arduino, ESP32, Custom Sensors
 AI/ML: Edge Computing, Surveillance, Data Science
-CGPA: 9.2 / 10
 Philosophy: Bridge the gap between software and physical reality.
 ```
 
@@ -49,7 +48,6 @@ My personal philosophy: **solve complex problems... or at least brute-force them
 
 - **Vellore Institute of Technology (VIT), Chennai**
   - B.Tech in Computer Science Engineering (Core) *(2025 – 2029)*
-  - CGPA: **9.2 / 10**
 - **Schooling (ICSE/ISC)**
   - Grade 12 — 95.75%
   - Grade 10 — 97%
