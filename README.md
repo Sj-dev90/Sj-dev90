@@ -1,11 +1,11 @@
-<h1 align="center">⚡ Siddharth Jain</h1>
+<table>
+<tr>
+<td width="65%">
+
+<img src="./assets/glow-banner.svg" alt="Siddharth Jain" width="100%">
 
 <p align="center">
 AI/ML Member @ Microsoft Innovators Club&nbsp;|&nbsp;Data Science Member @ IEEE RAS&nbsp;|&nbsp;IoT & Edge Computing Enthusiast
-</p>
-
-<p align="center">
-<code>echo "solving complex problems... or at least brute-forcing them elegantly."</code>
 </p>
 
 <p align="center">
@@ -13,6 +13,13 @@ AI/ML Member @ Microsoft Innovators Club&nbsp;|&nbsp;Data Science Member @ IEEE 
 <a href="mailto:sidjain10116@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://leetcode.com/u/sidjain10/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
 </p>
+
+</td>
+<td width="35%">
+<img src="./assets/siddharth_ascii.png" alt="Siddharth Jain ASCII portrait" width="100%">
+</td>
+</tr>
+</table>
 
 ---
 
@@ -28,6 +35,7 @@ Uptime: 24/7 (Fueled by Competitive Programming)
 Shell: C, C++, Python, Java
 Hardware: Arduino, ESP32, Custom Sensors
 AI/ML: Edge Computing, Surveillance, Data Science
+CGPA: 9.2 / 10
 Philosophy: Bridge the gap between software and physical reality.
 ```
 
@@ -41,6 +49,7 @@ My personal philosophy: **solve complex problems... or at least brute-force them
 
 - **Vellore Institute of Technology (VIT), Chennai**
   - B.Tech in Computer Science Engineering (Core) *(2025 – 2029)*
+  - CGPA: **9.2 / 10**
 - **Schooling (ICSE/ISC)**
   - Grade 12 — 95.75%
   - Grade 10 — 97%
@@ -78,6 +87,11 @@ My personal philosophy: **solve complex problems... or at least brute-force them
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 
+**Backend & Real-Time:**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+
 **Hardware & Tools:**
 
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
@@ -92,6 +106,8 @@ My personal philosophy: **solve complex problems... or at least brute-force them
 ```
 siddharth@jain:~ $ tree --level 2 ~/projects/
 ~/projects
+├── sahayak-ai [FastAPI | RAG Pipeline | WebRTC]
+│   └── Real-time AI assistant with retrieval-augmented generation and live voice/video streaming
 ├── edge-ai-surveillance [Python | Computer Vision | IoT]
 │   └── Edge-computing-based AI surveillance for restricted zone monitoring
 ├── quantum-blackhole-sim [Python | Physics]
@@ -109,6 +125,9 @@ siddharth@jain:~ $ tree --level 2 ~/projects/
 
 **Detailed Breakdown:**
 
+- **Sahayak AI**
+  - Built an advanced AI assistant system integrating a FastAPI backend with a Retrieval-Augmented Generation (RAG) pipeline for context-aware responses.
+  - Implemented WebRTC for real-time, low-latency voice/video interaction with the assistant.
 - **Edge AI Surveillance**
   - Proposed and developed a system focusing on edge-computing-based AI surveillance to monitor restricted zones.
 - **Quantum Black Hole Simulation**
