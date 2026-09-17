@@ -145,6 +145,19 @@ siddharth@jain:~ $ tree --level 2 ~/projects/
 
 ---
 
+
+### 🐍 My Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sj-dev90/Sj-dev90/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sj-dev90/Sj-dev90/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sj-dev90/Sj-dev90/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
 ### 🌱 Philosophy & Musings
 
 > *"If it can be brute-forced elegantly, it's already half-solved."*
